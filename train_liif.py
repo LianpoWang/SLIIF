@@ -18,7 +18,6 @@ from test import test
 
 warnings.filterwarnings("ignore")
 
-
 def make_data_loader(spec, tag=''):
     if spec is None:
         return None
